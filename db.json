@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "name": "Altab Raja Khan",
+      "role": "Editor",
+      "status": "Active",
+      "id": "1"
+    },
+    {
+      "name": "swapnil",
+      "role": "developer",
+      "status": "Active",
+      "id": "2"
+    }
+  ],
+  "roles": [
+    {
+      "name": "developer",
+      "permissions": [
+        "Read",
+        "Write",
+        "Delete"
+      ],
+      "id": "2"
+    }
+  ]
+}
